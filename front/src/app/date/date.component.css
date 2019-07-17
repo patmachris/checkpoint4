@@ -1,0 +1,52 @@
+.page{
+    margin-top: -3%;
+    background-image: url('https://image.noelshack.com/fichiers/2019/29/2/1563283900-pistevide.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+section{
+
+    background-color: rgba(209, 203, 205, 0.7);
+}
+h1{
+    font-size: 50px;
+    margin: 50px;
+}
+table{
+    border-collapse: collapse;
+    margin-top: 50px;
+}
+
+thead, tfoot{
+    background-image: url('https://image.noelshack.com/fichiers/2019/29/3/1563365717-rideau2.jpg');
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Luckiest Guy', cursive;
+    
+}
+
+.ligne-impaire{
+    background-color: rgba(250, 128, 84, 0.8);
+
+}
+
+.ligne-paire{
+    background-color: rgba(100, 205, 237, 0.5);
+
+}
+
+th{
+    font-weight: normal;
+}
+
+td,th{
+    background-color: rgba(100, 149, 237, 0.5);
+    border: 1px solid black;
+    padding: 20px 25px;
+    font-size: 4vh;
+
+    
+}
