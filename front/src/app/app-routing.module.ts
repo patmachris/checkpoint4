@@ -18,7 +18,7 @@ const routes: Routes = [
 {path: 'date', component: DateComponent, pathMatch: 'full'},
 {path: 'spectacle', component: SpectacleComponent, pathMatch: 'full'},
 {path: 'ticket', component: TicketComponent, pathMatch: 'full'},
-{path: 'fhistory', component: HistoryComponent, pathMatch: 'full'},
+{path: 'history', component: HistoryComponent, pathMatch: 'full'},
 ];
 
 @NgModule({
