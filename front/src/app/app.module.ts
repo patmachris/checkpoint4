@@ -10,6 +10,7 @@ import { DateComponent } from './date/date.component';
 import { SpectacleComponent } from './spectacle/spectacle.component';
 import { TicketComponent } from './ticket/ticket.component';
 import { HistoryComponent } from './history/history.component';
+import { HistoireComponent } from './histoire/histoire.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { HistoryComponent } from './history/history.component';
     DateComponent,
     SpectacleComponent,
     TicketComponent,
-    HistoryComponent
+    HistoryComponent,
+    HistoireComponent
   ],
   imports: [
     BrowserModule,
