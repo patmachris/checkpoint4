@@ -1,0 +1,38 @@
+.sm li a img {
+    width: 32px;
+}
+.sm {margin-left: 20px;
+    list-style: none;
+    overflow: auto;
+    
+}
+.sm li {
+    display: inline;
+    padding: 5px;
+    float: left;
+}
+.sm li a img {
+    width: 32px;
+}
+section{
+   background-image: url('https://image.noelshack.com/fichiers/2019/29/3/1563361104-cadriage.jpg');
+   border-top:3px solid rgb(141, 113, 113);
+   box-shadow: 0px -20px 30px rgb(141, 113, 113); 
+}
+
+.imgtail{
+    height: 15vh;
+ 
+}
+.page{
+    
+     background-color: rgba(172, 137, 137, 0.9);
+}
+.picture{
+    border: 3px solid rgb(141, 113, 113);
+    background-color: rgb(177, 146, 146);
+}
+
+.lionimg{
+    height: 15vh;
+}
