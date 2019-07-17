@@ -1,0 +1,30 @@
+.page{
+    margin-top: -3%;
+    background-image: url('https://image.noelshack.com/fichiers/2019/29/2/1563283900-pistevide.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.opacity{
+
+    background-color: rgba(209, 203, 205, 0.7);
+}
+img{
+    border-bottom: 2px dashed rgb(209, 124, 138);
+    padding-bottom: 20px;
+}
+.picture {
+    padding: 2%;
+    border: 2px solid rgb(99, 94, 94);
+    background-color: rgba(245, 226, 60, 0.3);
+}
+p{
+    font-size: 30px;
+    font-family: 'Acme', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    margin: 50px;
+}

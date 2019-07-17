@@ -1,0 +1,58 @@
+.page{
+    margin-top: -3%;
+    background-image: url('https://image.noelshack.com/fichiers/2019/29/2/1563283900-pistevide.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+section{
+
+    background-color: rgba(209, 203, 205, 0.7);
+}
+h1{
+    font-size: 50px;
+    margin: 50px;
+}
+
+button{
+    margin-top:80px;
+    font-size: 20px;
+    color: aquamarine;
+}
+
+form{
+    margin-top: 80px;
+}
+label{
+    margin-top: 20px;
+    font-size: 30px;
+    color: black;
+}
+
+
+
+
+
+.tableau {margin-left:10px;
+        padding-top: 115px;
+        padding-bottom: 60px;
+        margin-top: 90px;
+    }
+
+td, th {width: 110px;
+      height:0px;
+      border:solid black;
+      background-color: rgba(151,193,21, 0.5);
+        padding:6px;
+        color: black;
+    }
+
+      .purple{background-color: rgba(153,74,206, 0.5);}
+
+      .blue{background-color: rgba(0,162,232, 0.5);}
+
+.plan{
+    height: 450px;
+    
+}
